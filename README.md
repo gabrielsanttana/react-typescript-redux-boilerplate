@@ -2,10 +2,10 @@
   <img src="./.github/logo.png" alt="react-typescript-template" width="400" />
 </div>
 
+<p align="center">🧬 A boilerplate for React projects with TypeScript and Redux set up</p>
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gabrielsanttana/react-typescript-redux-boilerplate/blob/master/LICENSE) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/gabrielsanttana/react-typescript-redux-boilerplate/blob/main/CONTRIBUTING.md)
-
-<p align="center">🧬 A boilerplate for React projects with TypeScript and Redux set up</p>
 
 ## 🛠️ Technologies
 
